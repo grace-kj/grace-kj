@@ -2,7 +2,7 @@
 
 ### 👩‍💻 About 👩‍💻
 </div>
-
+<br/> 
 <div align="center">
 NLP researcher, engineer, Data scientist  
 
