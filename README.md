@@ -39,6 +39,7 @@ SungKyunKwan University(SKKU) - Department of Architecture, Data Science MAR 201
 - 2022 선거 크롤링 및 표심분석
 - 부동산 가격 예측 프로젝트 (LSTM + BERT)
 
+</br>
 
 ### Publications 🦜
 
