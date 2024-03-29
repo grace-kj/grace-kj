@@ -1,10 +1,11 @@
-___
+
 
 <div align="center">
 
 ### 👩‍💻 About 👩‍💻
 
 </div>
+#
 
 
 <div align="center">
@@ -24,9 +25,8 @@ NLP researcher, engineer, Data scientist
 
 ###  🏫 University 🏫
 
-SungKyunKwan University(SKKU) - Department of Architecture, Data Science MAR 2017 - AUG 2022
-# 
-SungKyunKwan University(SKKU) - Graduate School of Artificial Intelligence SEP 20122 - AUG 2024
+SungKyunKwan University(SKKU) - Department of Architecture, Data Science MAR 2017 - AUG 2022  
+SungKyunKwan University(SKKU) - Graduate School of Artificial Intelligence SEP 20122 - AUG 2024
 
 </div>
 </br>
