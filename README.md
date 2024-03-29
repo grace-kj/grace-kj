@@ -2,7 +2,7 @@
 
 ### 👩‍💻 About 👩‍💻
 </div>
-
+___
 <div align="center">
 NLP researcher, engineer, Data scientist  
 <br/> 
@@ -33,6 +33,7 @@ SungKyunKwan University(SKKU) - Department of Architecture, Data Science MAR 201
 | 빅데이터 & 인공지능 학회 TNT  | 자연어처리 | 2021 |
 </div>
 </br>
+
 ### Repo Overview ⭐️
 
 - 브로리봇 
