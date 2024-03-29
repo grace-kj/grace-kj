@@ -2,10 +2,10 @@
 
 ### 👩‍💻 About 👩‍💻
 </div>
-<br/> 
+
 <div align="center">
 NLP researcher, engineer, Data scientist  
-
+<br/> 
 <br/> 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) &nbsp; 
