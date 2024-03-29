@@ -3,7 +3,6 @@
 ### 👩‍💻 About 👩‍💻
 </div>
 
----
 <div align="center">
 NLP researcher, engineer, Data scientist  
 
@@ -34,7 +33,6 @@ SungKyunKwan University(SKKU) - Department of Architecture, Data Science MAR 201
 | NLPLAB(SKKU)  | 석사  | 2022~ |
 | 빅데이터 & 인공지능 학회 TNT  | 자연어처리 | 2021 |
 
-<br/> 
 
 ### Repo Overview ⭐️
 
