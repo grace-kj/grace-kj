@@ -21,7 +21,9 @@ NLP researcher, engineer, Data scientist
 ###  🏫 University 🏫
 </div>
 
+<div align="center">
 SungKyunKwan University(SKKU) - Department of Architecture, Data Science MAR 2017 - AUG 2022
+</div>
 
 <div align="center">
 
