@@ -43,7 +43,7 @@ SungKyunKwan University(SKKU) - Graduate School of Artificial Intelligence SEP 2
 ### Repo Overview ⭐️
 
 - 브로리봇 
-- 2022 선거 크롤링 및 표심분석
+- 2022 선거 유튜브 크롤링 및 표심분석
 - 부동산 가격 예측 프로젝트 (LSTM + BERT)
 
 </br>
