@@ -1,8 +1,12 @@
 <div align="center">
 
 ### 👩‍💻 About 👩‍💻
-</div>
+
 ___
+
+</div>
+
+
 <div align="center">
 NLP researcher, engineer, Data scientist  
 <br/> 
