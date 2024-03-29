@@ -45,7 +45,7 @@ SungKyunKwan University(SKKU) - Graduate School of Artificial Intelligence SEP 2
 - 브로리봇 : 학사제도 QA 챗봇 시스템
 - 2022 선거 유튜브 크롤링 및 표심분석
 - 부동산 가격 예측 프로젝트 (LSTM + BERT)
-- 중요 public space를 바탕으로 서울 지가 EDA
+- 중요 public space를 바탕으로 한 서울 지가 EDA 및 시각화
 
 </br>
 
