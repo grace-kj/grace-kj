@@ -16,7 +16,7 @@ NLP researcher, engineer, Data scientist
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) &nbsp; 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) &nbsp; 
 </br>
-[![Deepspeed](https://img.shields.io/badge/Deepspeed-FCF4A3)](https://) &nbsp; 
+[![Deepspeed](https://img.shields.io/badge/Deepspeed-5E5E5E)](https://) &nbsp; 
 [![Docker](https://img.shields.io/badge/Docker-2469ED)](https://)
 </div>
 
