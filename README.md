@@ -37,7 +37,7 @@ SungKyunKwan University(SKKU) - Graduate School of Artificial Intelligence SEP 2
 
 | Organization | Activity | Date       |
 |--------------|----------|------------|
-| 삼성전자  | |  2024~|
+| 삼성전자 MX사업부  | Software Engineer |  2024~|
 | NLPLAB(SKKU)  | 석사  | 2022~2024 |
 | 빅데이터 & 인공지능 학회 TNT  | 자연어처리 | 2021 |
 </div>
